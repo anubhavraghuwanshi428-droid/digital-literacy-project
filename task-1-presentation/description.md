@@ -1,7 +1,5 @@
 # Task 1: Digital Literacy Infographic
 
-This infographic was created to spread awareness about digital literacy among students. It highlights key topics such as online safety, digital tools, professional online presence, and email etiquette.
+For this task, I created a one‑page infographic using Canva to visually communicate the essentials of digital literacy. The goal was to design a resource that my batchmates could quickly understand and refer to, especially those who use digital tools daily but may not have reflected on the risks or responsibilities involved.
 
-The goal of this infographic is to present important information in a clear, concise, and visually engaging manner.
-
-Tools used: Piktochart
+The infographic covers three core areas: what digital literacy means, safe internet practices, and tips for building a professional online presence. I chose a clean, colourful layout with icons and short bullet points to make the content easy to scan. One aspect I found interesting was balancing visual appeal with clarity, too much text would overwhelm, but too few details would make it superficial. I learned that effective digital communication is not just about aesthetics, it’s about structuring information so that viewers absorb key takeaways at a glance. This task reinforced that creating awareness materials requires thinking from the audience’s perspective, which will be valuable in my role as Student Digital Ambassador.
